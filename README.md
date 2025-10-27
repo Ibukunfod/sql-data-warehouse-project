@@ -1,42 +1,47 @@
-# Data Warehouse and Analytics Project
+# 🧠 Data Warehouse & Analytics Project
 
-Welcome to the Data Warehouse and Analytics Project repository! 🚀
-This project demonstrates a comprehensive data warehousing and analytics solution, from building a data warehouse to generating actionable insights. Designed as a portfolio project, it highlights industry best practices in data engineering and analytics.
-
----
-
-## 🚀 Project Requirements
-
-### Building the Data Warehouse (Data Engineering)
-
-#### Objective
-Develop a modern data warehouse using SQL Server to consolidate sales data, enabling analytical reporting and informed decision-making.
-
-#### Specifications
-- **Data Sources**: Import data from two source systems (ERP and CRM) provided as CSV files.
-- **Data Quality**: Cleanse and resolve data quality issues prior to analysis.
-- **Integration**: Combine both sources into a single, user-friendly data model designed for analytical queries.
-- **Scope**: Focus on the latest dataset only; historization of data is not required.
-- **Documentation**: Provide clear documentation of the data model to support both business stakeholders and analytics teams.
+Welcome to my **Data Warehouse & Analytics Project** repository! 🚀  
+This project showcases a complete end-to-end data solution — from building a data warehouse to uncovering actionable insights.  
+It’s designed as a portfolio project to demonstrate practical data engineering and analytics skills using real-world best practices.
 
 ---
 
-### BI: Analytics & Reporting (Data Analysis)
+## ⚙️ Project Overview
+
+### 🏗️ Data Warehouse (Data Engineering)
 
 #### Objective
-Develop SQL-based analytics to deliver detailed insights into:
-- **Customer Behavior**
-- **Product Performance**
-- **Sales Trends**
+Build a modern data warehouse in **SQL Server** that consolidates sales data from multiple systems to support analytical reporting and better business decisions.
 
-These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
+#### Key Tasks
+- **Data Sources**: Import datasets from two source systems — ERP and CRM — provided in CSV format.  
+- **Data Cleaning**: Identify and resolve data quality issues before loading into the warehouse.  
+- **Integration**: Combine both datasets into a single, structured, and analysis-ready data model.  
+- **Scope**: Focus on the most recent dataset only (no historization required).  
+- **Documentation**: Provide clear and concise documentation of the data model for both business users and analysts.
+
+---
+
+### 📊 Analytics & Reporting (Data Analysis)
+
+#### Objective
+Use SQL-based analytics to generate valuable insights around:
+- **Customer Behavior**  
+- **Product Performance**  
+- **Sales Trends**  
+
+These insights help drive data-informed decisions and highlight key performance patterns.
 
 ---
 
 ## 🛡️ License
 
-This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+This project is released under the [MIT License](LICENSE).  
+You’re welcome to use, modify, or share it — just provide proper attribution.
 
-## 🌟 About Me
+---
 
-Hi there! I'm **Ibukunoluwwa Fodunrin**. I’m an aspiring Data Engineer on a mission to share knowledge and make working with data enjoyable and engaging!
+## 👋 About Me
+
+Hi, I’m **Ibukunoluwa Fodunrin** — an aspiring **Data Engineer** passionate about building reliable data systems and uncovering insights that drive real impact.  
+I enjoy simplifying complex data concepts and making analytics more approachable for everyone.
