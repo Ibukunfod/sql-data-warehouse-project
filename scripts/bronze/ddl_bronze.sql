@@ -1,4 +1,17 @@
--- Data Definition Language (DDL) Script for Bronze Schema Tables
+/*
+================================================================
+DDL Script for Bronze Layer Tables
+================================================================
+Script Purpose:
+    This script creates the necessary tables within the 'bronze'
+    schema of the 'DataWarehouse' database to store raw data
+    ingested from various source systems including CRM and ERP.
+    Run this script to redefine the structure of the bronze layer
+    tables.
+    WARNING: Running this script will drop existing bronze layer
+    tables
+===============================================================
+*/
 
 IF OBJECT_ID ('bronze.crm_cust_info', 'U') IS NOT NULL
     DROP TABLE bronze.crm_cust_info;
